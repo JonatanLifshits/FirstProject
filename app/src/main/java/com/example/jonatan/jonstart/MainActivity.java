@@ -26,7 +26,6 @@ public class MainActivity extends AppCompatActivity {
 
         user.sayHello();
 
-        new AngryUser().sayHello();
 
     }
 
