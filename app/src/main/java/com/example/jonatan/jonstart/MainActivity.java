@@ -11,8 +11,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        long answer = MathUtils.stepen(2, 5);
-        Log.d("Stepen'", String.valueOf(answer));
+
+
 
         User user = new User();
         user.setName("Test");
